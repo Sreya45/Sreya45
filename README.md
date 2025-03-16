@@ -3,16 +3,18 @@
 
 ## 🌐 Connect with me:
 
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 15px;">
     <a href="https://www.linkedin.com/in/sreya-vijay-9a6511249/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://www.instagram.com/sreyaa.vijay/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
     </a>
-    &nbsp;&nbsp;
+    <a href="sreyavijay5@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="50" />
+    </a>
 </p>
+
 
 # 💻 Tech Stack:
 
