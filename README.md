@@ -3,6 +3,7 @@
 
 ## 🌐 Connect with me:
 
+### **Social**
 <p align="left" style="display: flex; align-items: center; gap: 15px;">
     <a href="https://www.linkedin.com/in/sreya-vijay-9a6511249/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
